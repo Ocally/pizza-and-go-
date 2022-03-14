@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+*{
+    transition: all 500ms ease-out;
+    -webkit-transition: all 500ms ease-out;
+}
+
+element {
+    --main-black: #000000;  
+    --main-yellow: #F6C206;
+    --main-white: #FFFFFF;
+}
+
+.navbar {
+    background-color: var(--main-black);
+}
+
+
+
